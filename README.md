@@ -1,6 +1,7 @@
-###  Hi! Welcome to my Github:grey_exclamation:
+###  Hi! Welcome to my Github:heavy_exclamation_mark:
 👩‍💻 My name is Tamires Sousa! I'm a Full-Stack student.<br>
-📚 I am graduated in graphic design and chemistry, currently studying a master's degree in technology education.
+👩🏻‍🎓 I am graduated in Graphic Design (UEMG) and Chemistry (UFMG).<br>
+📚 Currently I studying  master's degree in Technology Education (CEFET-MG).
  
 ####  I develops in:
 <div display="flex">
@@ -35,17 +36,9 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height= "30px" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" height= "30px" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height= "30px"/>
-
 </div>
 <hr>
 
 ####  Find me on linkedin: 
 
 <a href="https://www.linkedin.com/in/seu-usuário-linkedln-aqui" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-
-
-
-[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=tamireshc&hide=html&layout=compact&theme=default)](https://github.com/iuricode/)
-
-
-
