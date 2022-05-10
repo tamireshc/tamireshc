@@ -1,5 +1,5 @@
 ###  Hi! Welcome to my Github:heavy_exclamation_mark:
-👩‍💻 My name is Tamires Sousa! I'm a Full-Stack student.<br>
+👩‍💻 My name is Tamires Sousa! I'm a student of Full-Stack developer.<br>
 👩🏻‍🎓 I am graduated in Graphic Design (UEMG) and bachelor in Chemistry (UFMG).<br>
 📚 Currently I studying  master's degree in Technology Education (CEFET-MG).
  
