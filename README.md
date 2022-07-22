@@ -1,7 +1,7 @@
 ###  Hi! Welcome to my Github:heavy_exclamation_mark:
 👩‍💻 My name is Tamires Sousa! I'm a Full-Stack web development student.<br>
 👩🏻‍🎓 I am graduated in Graphic Design (UEMG) and bachelor in Chemistry (UFMG).<br>
-📚 Currently I studying  master's degree in Technology Education (CEFET-MG).
+📚 I am master in Technology Education (CEFET-MG).
  
 ####  I develops in:
 <div display="flex">
