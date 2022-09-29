@@ -7,9 +7,9 @@
 
 📚Durante esse primeiro contato, me identifiquei muito com a área, e procurei uma forma que eu pudesse me profissionalizar, foi neste momento que descobri a Trybe.  Uma escola de tecnologia que oferece uma formação completa voltada para o mercado.
 
+<hr>
 
-
-👩🏻‍🎓 <b>Formação:</b> Mestre em Educação Tecnológica (CEFET-MG) e graduada em Design Gráfico (UEMG) e química (UFMG).
+👩🏻‍🎓 <b>Formação:</b> Estudante de desenvolvimento Full-stack Trybe, Mestre em Educação Tecnológica (CEFET-MG) e graduada em Design Gráfico (UEMG) e química (UFMG).
 
 📟 <b>Stacks:</b> JavaScript, React, Redux, Tailwind, Node, Express, MySql e Sequelize
 
