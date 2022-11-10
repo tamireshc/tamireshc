@@ -9,7 +9,7 @@
 
 <hr>
 
-👩🏻‍🎓 <b>Formação:</b> Estudante de desenvolvimento Full-stack (Trybe), Mestre em Educação Tecnológica (CEFET-MG) e graduada em Design Gráfico (UEMG) e química (UFMG).
+👩🏻‍🎓 <b>Formação:</b> Desenvolvimento Full-stack (Trybe), Mestre em Educação Tecnológica (CEFET-MG) e graduada em Design Gráfico (UEMG) e química (UFMG).
 
 📟 <b>Stacks:</b> JavaScript, React, Redux, Tailwind, Node, Express, MySql e Sequelize
 
