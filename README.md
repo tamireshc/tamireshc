@@ -11,7 +11,7 @@
 
 👩🏻‍🎓 <b>Formação:</b> Desenvolvimento Full-stack (Trybe), Mestre em Educação Tecnológica (CEFET-MG) e graduada em Design Gráfico (UEMG) e química (UFMG).
 
-📟 <b>Stacks:</b> JavaScript, TypesScript, React, Redux, Tailwind, Saas, Node, Express, MySql, Sequelize e MongoDB
+📟 <b>Stacks:</b> JavaScript, TypesScript, React, Redux, Tailwind, Saas, Node, Express, MySql, Sequelize, Prisma, MongoDB e Mongoose
 
 ⚒️ <b>Ferramentas:</b> Figma, Adobe XD, Photoshop, Indesign e Illustrator
 
@@ -44,9 +44,9 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg" height= "40px" />        
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height= "40px"  />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height= "40px"  />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height= "40px" />
-          
-          
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height= "40px" />        
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain-wordmark.svg" height= "50px" />
+       
 </div>
 <hr>
 
