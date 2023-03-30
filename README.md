@@ -11,7 +11,7 @@
 
 👩🏻‍🎓 <b>Formação:</b> Desenvolvimento Full-stack (Trybe), Mestre em Educação Tecnológica (CEFET-MG) e graduada em Design Gráfico (UEMG) e química (UFMG).
 
-📟 <b>Stacks:</b> JavaScript, TypesScript, React, Redux, Tailwind, Saas, Node, Express, MySql, Sequelize, GraphQl, Prisma, MongoDB e Mongoose
+📟 <b>Stacks:</b> JavaScript, TypesScript, C#, .NET, React, Redux, Tailwind, Saas, Node, Express, MySql, Sequelize, GraphQl, Prisma, MongoDB e Mongoose
 
 ⚒️ <b>Ferramentas:</b> Figma, Adobe XD, Photoshop, Indesign e Illustrator
 
