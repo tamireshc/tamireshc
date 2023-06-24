@@ -18,9 +18,9 @@
 :floppy_disk: <b>Portifólio:</b> https://portfolio-fullstack-tamireshc.vercel.app/
 
 <hr>
-<h4> Linguagens que utilizo:</h4>
+<h4 align="center"> Linguagens que utilizo:</h4>
 
-<div display="flex" >
+<div display="flex" align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" height="40px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" height="40px" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height= "40px"  />
@@ -41,8 +41,8 @@
 
 </div>
 <hr>
-<h4> Linguagens que estou estudando:</h4>
-<div display="flex">
+<h4 align="center"> Linguagens que estou estudando:</h4>
+<div display="flex" align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height= "60px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height= "40px" /> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height= "40px" />   
@@ -53,8 +53,8 @@
 </div>
 <hr>
 
-<h4> Posso fazer desenhos e layouts com:</h4>
-<div display="flex">
+<h4 align="center"> Posso fazer desenhos e layouts com:</h4>
+<div display="flex" align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height= "30px" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height= "30px" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" height= "30px" />
@@ -63,6 +63,7 @@
 </div>
 <hr>
 
-<h4> Me encontre no linkedin</h4>
-<div><a href="https://www.linkedin.com/in/tamires-s" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" ></a>  </div>
- 
+<h4 align="center"> Me encontre no linkedin</h4>
+<div align="center"><a href="https://www.linkedin.com/in/tamires-s" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" ></a>  </div>
+
+
