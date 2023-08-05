@@ -11,7 +11,7 @@
 
 👩🏻‍🎓 <b>Formação:</b> Desenvolvimento Full-stack (Trybe), Mestre em Educação Tecnológica (CEFET-MG) e graduada em Design Gráfico (UEMG) e química (UFMG).
 
-📟 <b>Stacks:</b> JavaScript, TypesScript, C#, .NET, React, Redux, Tailwind, Saas, Node, Express, MySql, Sequelize, GraphQl, Prisma, MongoDB e Mongoose
+📟 <b>Stacks:</b>  C#, .NET, Java,JavaScript, TypesScript, React, Redux, Tailwind, Saas, Node, Express, MySql, Sequelize, GraphQl, Prisma, MongoDB e Mongoose
 
 ⚒️ <b>Ferramentas:</b> Figma, Adobe XD, Photoshop, Indesign e Illustrator
 
@@ -21,12 +21,13 @@
 <h4> Linguagens e tecnologias que utilizo:</h4>
 
 <div display="flex" >
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" height="40px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" height="40px" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height= "40px"  />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" height= "40px"  />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height= "60px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height= "30px" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height= "30px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" height="40px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" height="40px" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height= "30px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height= "30px" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="40px"/>
@@ -43,7 +44,6 @@
 <hr>
 <h4 > Linguagens e tecnologias que estou estudando:</h4>
 <div display="flex">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height= "60px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height= "40px" /> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height= "40px" />   
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height= "40px"  />
