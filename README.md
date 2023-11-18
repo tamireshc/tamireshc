@@ -9,7 +9,7 @@
 
 <hr>
 
-👩🏻‍🎓 <b>Formação:</b>  Pós-graduanda em Engenharia de Software (USP), Desenvolvedora Full-stack (Trybe), Mestre em Educação Tecnológica (CEFET-MG) e graduada em Design Gráfico (UEMG) e química (UFMG).
+👩🏻‍🎓 <b>Formação:</b>  Pós-graduanda em Engenharia de Software (USP), Desenvolvedora Full-stack (Trybe), Mestre em Educação Tecnológica (CEFET-MG) e Bacharel em Design Gráfico (UEMG) e química (UFMG).
 
 📟 <b>Stacks:</b> Java (SpringBoot e Quarkus), C#, .NET,  JavaScript, TypesScript, Python (FastApi e Django), React, Redux, Tailwind, Saas, Node, Express, Sequelize, MySql e MongoDB.
 
