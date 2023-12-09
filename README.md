@@ -1,4 +1,4 @@
-###  Olá! Bem vindo ao meu Github:heavy_exclamation_mark:
+###  Olá! Bem vindo ao meu Github :heavy_exclamation_mark:
 
 
 📚 Entusiasta de ciência e tecnologia. Iniciei meus estudos acadêmicos na área de química. Durante essa jornada desenvolvi pesquisas na área de Físico-Química com ênfase em eletroquímica e materiais eletrocrômicos.
