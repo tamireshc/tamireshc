@@ -11,9 +11,9 @@
 
 👩🏻‍🎓 <b>Formação:</b>  Pós-graduanda em Engenharia de Software (USP), Desenvolvedora Full-stack (Trybe), Mestre em Educação Tecnológica (CEFET-MG) e Bacharel em Design Gráfico (UEMG) e química (UFMG).
 
-📟 <b>Stacks:</b> Java (SpringBoot e Quarkus), C#, .NET,  JavaScript, TypesScript, Python (FastApi e Django), React, Redux, Tailwind, Saas, Node, Express, Sequelize, MySql e MongoDB.
+📟 <b>Stacks:</b> Java (SpringBoot e Quarkus), C# (.NET), JavaScript, TypesScript, Python (FastApi), React, Node, Express, MySql e MongoDB.
 
-⚒️ <b>Ferramentas:</b> Figma, Adobe XD, Photoshop, Indesign e Illustrator
+⚒️ <b>Ferramentas:</b> Figma, Photoshop, Indesign e Illustrator
 
 :floppy_disk: <b>Portifólio:</b> https://portfolio-fullstack-tamireshc.vercel.app/
 
@@ -28,17 +28,12 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/quarkus/quarkus-original-wordmark.svg" height= "60px"  />        
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height= "30px" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height= "30px" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" height="40px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" height="40px" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height= "30px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height= "30px" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" height="40px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40px" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" height= "50px"  />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"  height= "40px"  />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"  height= "50px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg"  height= "40px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain-wordmark.svg" height= "50px" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height= "50px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height= "40px"  />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original-wordmark.svg"  height= "70px"/>  
@@ -58,7 +53,6 @@
 <div display="flex" >
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height= "30px" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height= "30px" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" height= "30px" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height= "30px"/>
  
 </div>
