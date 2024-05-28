@@ -3,9 +3,9 @@
 
 📚 Entusiasta de ciência e tecnologia. Iniciei meus estudos acadêmicos na área de química. Durante essa jornada desenvolvi pesquisas na área de Físico-Química com ênfase em eletroquímica e materiais eletrocrômicos.
 
-👩🏻‍🎓Após a formação em química, segui em busca de expandir meus conhecimentos e comecei  buscar trilhar a carreira de tecnologia. Fiz diversos cursos na área de programação com o objetivo de entender melhor como funcionava e se realmente desejava esta carreira.
+👩🏻‍🎓Após a formação em química, segui em busca de expandir meus conhecimentos e comecei a estudar tecnologia. Fiz diversos cursos de programação com o objetivo de entender melhor como funcionava e se realmente desejava esta carreira.
 
-📚Durante esse primeiro contato, me identifiquei muito com a área, e procurei uma forma que eu pudesse me profissionalizar, foi neste momento que descobri a Trybe.  Uma escola de tecnologia que oferece uma formação completa voltada para o mercado.
+📚Durante esse primeiro contato me identifiquei com a área e procurei uma forma que eu pudesse me profissionalizar. Realizei a formação de desenvolvimento Full-Stack na Trybe e atualmente estou cursando o MBA em Engenharia de Software na USP.
 
 <hr>
 
