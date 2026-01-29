@@ -5,13 +5,13 @@
 
 👩🏻‍🎓Após a formação em química, segui em busca de expandir meus conhecimentos e comecei a estudar tecnologia. Fiz diversos cursos de programação com o objetivo de entender melhor como funcionava e se realmente desejava esta carreira.
 
-📚Durante esse primeiro contato me identifiquei com a área e procurei uma forma que eu pudesse me profissionalizar. Realizei a formação de desenvolvimento Full-Stack na Trybe e atualmente estou cursando o MBA em Engenharia de Software na USP.
+📚Durante esse primeiro contato me identifiquei com a área e procurei uma forma que eu pudesse me profissionalizar. Realizei a formação de desenvolvimento Full-Stack na Trybe e o MBA em Engenharia de Software na USP.
 
 <hr>
 
-👩🏻‍🎓 <b>Formação:</b>  Pós-graduanda em Engenharia de Software (USP), Desenvolvedora Full-stack (Trybe), Mestre em Educação Tecnológica (CEFET-MG) e Bacharel em Design Gráfico (UEMG) e química (UFMG).
+👩🏻‍🎓 <b>Formação:</b>  Pós-graduada em Engenharia de Software (USP), Desenvolvedora Full-stack (Trybe), Mestre em Educação Tecnológica (CEFET-MG) e Bacharel em Design Gráfico (UEMG) e Química (UFMG).
 
-📟 <b>Stacks:</b> Java (SpringBoot e Quarkus), C# (.NET), JavaScript, TypesScript, Python (FastApi), React, Node, Express, MySql e MongoDB.
+📟 <b>Stacks:</b> Java (SpringBoot e Quarkus), C# (.NET), JavaScript, TypesScript, Node, Python (FastApi), React, e Desenvolvimento para Mainframe com Cobol e Natural.
 
 ⚒️ <b>Ferramentas:</b> Figma, Photoshop, Indesign e Illustrator
 
